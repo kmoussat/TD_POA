@@ -1,0 +1,37 @@
+ // Ouverture du fichier, 
+            StreamReader monStreamReader = new StreamReader(@"C:\OuSeTrouveMonFichier\liste.txt");
+
+            // Lire la première ligne
+            string ligne = monStreamReader.ReadLine();
+
+            // Tant que la ligne lue n'est pas null
+            while (ligne != null)
+            {               
+                // Découper selon le séparateur ',', résultat: un tableau.
+                string[] temp = ligne.Split(',');
+
+                // Si telephone fixe
+                if (temp[0] == "Fixe")
+                {
+                    Console.WriteLine("TelephoneFixe ");
+                    foreach (string val in temp)
+                    {
+                        Console.WriteLine("     " + val);
+                    }                    
+                }
+                else // sinon, telephone portable.
+                {
+                    Console.WriteLine("TelephonePortable ");
+                    Console.WriteLine("     " + temp[0]);
+                    Console.WriteLine("     " + temp[1]);
+                    Console.WriteLine("     " + temp[2]);
+                    Console.WriteLine("     " + temp[3]);                    
+                }
+
+                // lire ligne suivante.
+                ligne = monStreamReader.ReadLine();
+            }
+           
+
+            // Fermeture du StreamReader (attention indispensable) 
+            monStreamReader.Close(); 

@@ -1,0 +1,6 @@
+c:\users\ken\documents\visual studio 2015\Projects\TD3_Prog\TD3_Prog\bin\Debug\TD3_Prog.exe.config
+c:\users\ken\documents\visual studio 2015\Projects\TD3_Prog\TD3_Prog\bin\Debug\TD3_Prog.exe
+c:\users\ken\documents\visual studio 2015\Projects\TD3_Prog\TD3_Prog\bin\Debug\TD3_Prog.pdb
+c:\users\ken\documents\visual studio 2015\Projects\TD3_Prog\TD3_Prog\obj\Debug\TD3_Prog.csprojResolveAssemblyReference.cache
+c:\users\ken\documents\visual studio 2015\Projects\TD3_Prog\TD3_Prog\obj\Debug\TD3_Prog.exe
+c:\users\ken\documents\visual studio 2015\Projects\TD3_Prog\TD3_Prog\obj\Debug\TD3_Prog.pdb

@@ -1,0 +1,34 @@
+Telephone portable : 
+Apple0236897786Olive
+Telephone portable : 
+Apple0261881510Nicole
+Telephone fixe : 
+Siemens0320882161E100
+Telephone fixe : 
+Alcatel0350613064U986
+Telephone fixe : 
+Siemens0372368706T654
+Telephone portable : 
+Nokia0388916015Jean
+Telephone portable : 
+Samsung0439425998Alice
+Telephone portable : 
+Samsung0455512153Olivier
+Telephone fixe : 
+Siemens0457194010E321
+Telephone portable : 
+Samsung0462375217Marc
+Telephone portable : 
+Nokia0496202257Pierre
+Telephone fixe : 
+Alcatel0547743055X567
+Telephone fixe : 
+Alcatel0614501953L100
+Telephone fixe : 
+Thomson0617078993L501
+Telephone fixe : 
+Alcatel0693495009L456
+Telephone portable : 
+Samsung0732747396Marie
+Telephone portable : 
+Apple0986735027Anne
